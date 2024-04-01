@@ -23,8 +23,8 @@
     "type": "Component"
   },
   "peerDependencies": {
-    "react": "^16.0",
-    "react-native": ">=0.60 <0.62"
+    "react": "^18.0",
+    "react-native": ">=0.68 <=0.73"
   },
   "dependencies": {
     "escape-string-regexp": "2.0.0",
